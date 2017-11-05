@@ -1,0 +1,10 @@
+.jumbo-header{
+	text-align:center;
+	color:white !important;
+}
+.jumbotron{
+	/*background-color: #399619;*/
+	background-image: url("../train.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%; 
+}
